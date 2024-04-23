@@ -14,7 +14,7 @@ By extracting relevant LinkedIn data, we can explore career paths, identify tren
 
 ## Project about 
 It's a project for 30 Day ML challenge by Break-Into-Data 
-([Website](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+([Website](https://github.com/DataTalksClub/data-engineering-zoomcamp),
 [Discord](https://discord.gg/engQhPaVrX))
 
 ## Dataset
