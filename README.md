@@ -8,13 +8,13 @@ Welcome to the **LinkedIn Job Data Analysis** repository! This project aims to t
 4. What is the distribution of job types for specific job roles?
 5. What are the top 10 required skills for a specific job role according to data?
 
-**For this project, We will be using this specific job role as "Machine Learning Engineer.**
+**For this project, We will be using this specific job role as "Machine Learning Engineer".**
 
 By extracting relevant LinkedIn data, we can explore career paths, identify trends, and make informed decisions related to talent sourcing, workforce development, and industry insights.
 
 ## Project about 
 It's a project for 30 Day ML challenge by Break-Into-Data 
-([Website](https://github.com/DataTalksClub/data-engineering-zoomcamp),
+([Website](https://merinova.substack.com/),
 [Discord](https://discord.gg/engQhPaVrX))
 
 ## Dataset
