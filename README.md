@@ -1,12 +1,14 @@
 # LinkedIn-Job-Data-Analysis
 
-Welcome to the **LinkedIn Job Data Analysis** repository! This project aims to to analyze LinkedIn job data for the first quarter of 2024 to answer questions such as:
+Welcome to the **LinkedIn Job Data Analysis** repository! This project aims to to analyze LinkedIn job data for the first month of 2024 to answer questions such as:
 
-1. What skills are most in demand by employers for specific job roles?
-2. What is the job posting trend overtime?
-3. What is the distribution of job levels for specific job roles?
-4. What is the distribution of job types for specific job roles?
-5. What are the top 10 required skills for a specific job role according to data?
+1. What is the job posting trend overtime?
+2. What is the distribution of job levels for specific job roles?
+3. What is the distribution of job types for specific job roles?
+4. What are the top 10 required skills for a specific job role according to data?
+5. What is the average number of skills required to apply for a specific job role?
+6. Which companies had most ML jobs postings?
+7. Which state/city is the hub of hiring ML engineers?
 
 **For this project, We will be using this specific job role as "Machine Learning Engineer".**
 
@@ -14,7 +16,8 @@ By extracting relevant LinkedIn data, we can explore career paths, identify tren
 
 ## Project about 
 It's a project for 30 Day ML challenge by Break-Into-Data 
-([Website](https://merinova.substack.com/),
+([Website 1](https://merinova.substack.com/),
+[Website 2](https://breakintodata.substack.com/),
 [Discord](https://discord.gg/engQhPaVrX))
 
 ## Dataset
