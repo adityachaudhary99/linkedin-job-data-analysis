@@ -20,6 +20,12 @@ It's a project for 30 Day ML challenge by Break-Into-Data
 ## Dataset
 [Kaggle-Dataset-Link](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
 
+## Project Dashboard
+
+![alt text](.LinkedIn_dashboard.png)
+
+
+
 # Reproducing from scratch
 
 ## Getting Started
