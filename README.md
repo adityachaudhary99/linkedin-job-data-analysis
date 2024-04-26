@@ -22,9 +22,9 @@ It's a project for 30 Day ML challenge by Break-Into-Data
 
 ## Project Dashboard
 
-![alt text](.LinkedIn_dashboard.png)
+![alt text](.LinkedInDashboard.png)
 
-
+To get the dashboard locally, [click here](https://github.com/adityachaudhary99/linkedin-job-data-analysis/raw/main/LinkedIn_jobs_dashboard.pbix).
 
 # Reproducing from scratch
 
